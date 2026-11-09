@@ -1,3 +1,8 @@
+## Hulp nodig?
+
+- [Hoe werken wij met Scrum?](docs/scrum-werkwijze.md)
+- [Hoe werken wij met Git en GitHub?](docs/git-en-github.md)
+
 # Welkom bij jullie softwarebedrijf!
 
 Jullie gaan als team een eigen softwarebedrijf vormen. Vanuit dit bedrijf gaan jullie software ontwikkelen, samenwerken alsof jullie een professioneel developmentteam zijn en werken aan jullie persoonlijke ontwikkeling als softwaredeveloper.
