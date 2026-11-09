@@ -180,3 +180,5 @@ Voor iedere sprint geldt:
 - De docent mag feedback geven of taken laten aanpassen.
 
 **Tijd om te beginnen. Bouw iets moois samen!**
+
+Zet dit bestand om naar de README.md die past bij jullie bedrijf
