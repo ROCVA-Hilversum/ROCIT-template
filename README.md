@@ -1,7 +1,7 @@
 ## Hulp nodig?
 
-- [Hoe werken wij met Scrum?](docs/scrum-werkwijze.md)
-- [Hoe werken wij met Git en GitHub?](docs/git-en-github.md)
+- [Hoe werken wij met Scrum?](docs/SCRUM-WERKWIJZE.md)
+- [Hoe werken wij met Git en GitHub?](docs/GIT-EN-GITHUB.md)
 
 # Welkom bij jullie softwarebedrijf!
 
